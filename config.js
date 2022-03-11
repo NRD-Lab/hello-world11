@@ -1,0 +1,1 @@
+const config = {"archived":false,"host":"http://localhost:3050","dataParams":{"relayName":"hello-world11","repository":"hello-world11","maxRelayPulls":200,"writeEndpoints":{"UploadCSV":{"boxRelativePath":"/hello-world11","customPath":"/Subject_pullCount","maxFileSize":"5mb","maxFiles":1,"maxFileUpdates":81}}}}; export {config}
